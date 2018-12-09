@@ -2,7 +2,7 @@
 
 **Our goal is to discover what’s the quality of a wine considering only its chemical properties.**
 
-Our dataset is downloaded from [UCI open repository](http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) and is composed by the following features:
+Our dataset is downloaded from [UCI open repository](http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/) and is composed by the following features:
 - fixed acidity
 - volatile acidity
 - citric acid
