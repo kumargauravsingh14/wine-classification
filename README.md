@@ -17,5 +17,3 @@ Our dataset is downloaded from [UCI open repository](http://mlr.cs.umass.edu/ml/
 - quality
 
 Implemented Random Forest classifier(with n_estimators = 100) to classify wine as bad, average or good here referred as 1, 2, and 3 respectively. We have used Grid Search cross-validation for tuning hyperparameters. We have also used PCA to get rid of unnecessary features. Metrics used are - precision, recall, f1 score, and accuracy. At last, we dump the model to store it for future use.
-
-Just for testing
